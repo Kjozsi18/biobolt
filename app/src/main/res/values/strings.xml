@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">EcoShopping</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="user_name">Username</string>
+    <string name="email">Email</string>
+    <string name="cancel">Cancel</string>
+    <string name="passwordagain">Password Again</string>
+    <string name="tel">Tel</string>
+    <string name="address">Address</string>
+    <string name="productdescription">Description</string>
+    <string name="logingoogle">Login with Google account</string>
+    <string name="loginguest">Login as guest</string>
+    <string name="title">Product name</string>
+    <string name="sub">Subscription</string>
+    <string name="price">Price</string>
+    <string name="cart">Add to cart</string>
+    <string name="delete">Delete</string>
+    <string-array name="tel_mode">
+        <item>Mobile</item>
+        <item>Home</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string-array name="itemsName">
+        <item>Organic Fruits and Vegetables</item>
+        <item>Whole Grain Rice</item>
+        <item>Plant-Based Protein Powder</item>
+        <item>Fair Trade Coffee Beans</item>
+        <item>Locally Sourced Honey</item>
+        <item>Reusable Stainless Steel Straws</item>
+        <item>Organic Nut Butter</item>
+        <item>Biodegradable Food Containers</item>
+        <item>Non-GMO Tofu</item>
+        <item>Sustainable Seafood</item>
+        <item>Organic Herbal Tea</item>
+        <item>Free-Range Eggs</item>
+        <item>Reusable Beeswax Food Wraps</item>
+        <item>Organic Dark Chocolate</item>
+        <item>Fair Trade Spices</item>
+        <item>Gluten-Free Oats</item>
+        <item>Locally Produced Olive Oil</item>
+        <item>Organic Quinoa</item>
+        <item>Artisanal Vegan Cheese</item>
+        <item>Non-Dairy Milk Alternatives</item>
+        <item>Locally Harvested Nuts</item>
+    </string-array>
+    <string-array name="itemsSub">
+        <item>Enjoy the natural goodness of organically grown fruits and vegetables.</item>
+        <item>Switch to whole grain rice for a nutritious and eco-friendly.</item>
+        <item>Power your workouts with plant-based protein powder.</item>
+        <item>Start your day sustainably with fair trade coffee beans.</item>
+        <item>Sweeten your dishes with locally sourced honey.</item>
+        <item>Sip sustainably with reusable stainless steel straws.</item>
+        <item>Spread goodness with organic nut butter.</item>
+        <item>Reduce waste with biodegradable food containers.</item>
+        <item>Choose non-GMO tofu for a nutritious.</item>
+        <item>Make responsible seafood choices.</item>
+        <item>Relax and unwind.</item>
+        <item>Support ethical farming practices with free-range eggs.</item>
+        <item>Wrap your food in eco-friendly style with reusable.</item>
+        <item>Indulge guilt-free with organic dark chocolate.</item>
+        <item>Spice up your dishes with fair trade spices.</item>
+        <item>Enjoy the benefits of gluten-free oats.</item>
+        <item>Enhance your meals with locally produced olive oil.</item>
+        <item>Incorporate organic quinoa into your diet for a nutritious.</item>
+        <item>Discover the deliciousness of artisanal vegan cheese.</item>
+        <item>Choose from a variety of non-dairy milk alternatives.</item>
+        <item>Snack responsibly with locally harvested nuts.</item>
+
+    </string-array>
+    <array name="itemsRate">
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item>5</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2</item>
+
+    </array>
+    <array name="itemsImg">
+        <item>@drawable/ec1</item>
+        <item>@drawable/ec2</item>
+        <item>@drawable/ec3</item>
+        <item>@drawable/ec4</item>
+        <item>@drawable/ec5</item>
+        <item>@drawable/ec6</item>
+        <item>@drawable/ec7</item>
+        <item>@drawable/ec8</item>
+        <item>@drawable/ec9</item>
+        <item>@drawable/ec10</item>
+        <item>@drawable/ec11</item>
+        <item>@drawable/ec12</item>
+        <item>@drawable/ec13</item>
+        <item>@drawable/ec14</item>
+        <item>@drawable/ec15</item>
+        <item>@drawable/ec16</item>
+        <item>@drawable/ec17</item>
+        <item>@drawable/ec18</item>
+        <item>@drawable/ec19</item>
+        <item>@drawable/ec20</item>
+        <item>@drawable/ec21</item>
+
+    </array>
+
+    <string-array name="itemsPrice">
+        <item>$12</item> <!-- Organic Fruits and Vegetables -->
+        <item>$5</item> <!-- Whole Grain Rice -->
+        <item>$20</item> <!-- Plant-Based Protein Powder -->
+        <item>$8</item> <!-- Fair Trade Coffee Beans -->
+        <item>$15</item> <!-- Locally Sourced Honey -->
+        <item>$10</item> <!-- Reusable Stainless Steel Straws -->
+        <item>$14</item> <!-- Organic Nut Butter -->
+        <item>$18</item> <!-- Biodegradable Food Containers -->
+        <item>$6</item> <!-- Non-GMO Tofu -->
+        <item>$22</item> <!-- Sustainable Seafood -->
+        <item>$9</item> <!-- Organic Herbal Tea -->
+        <item>$7</item> <!-- Free-Range Eggs -->
+        <item>$11</item> <!-- Reusable Beeswax Food Wraps -->
+        <item>$13</item> <!-- Organic Dark Chocolate -->
+        <item>$16</item> <!-- Fair Trade Spices -->
+        <item>$4</item> <!-- Gluten-Free Oats -->
+        <item>$25</item> <!-- Locally Produced Olive Oil -->
+        <item>$8</item> <!-- Organic Quinoa -->
+        <item>$15</item> <!-- Artisanal Vegan Cheese -->
+        <item>$5</item> <!-- Non-Dairy Milk Alternatives -->
+        <item>$10</item> <!-- Locally Harvested Nuts -->
+
+    </string-array>
+
+</resources>
